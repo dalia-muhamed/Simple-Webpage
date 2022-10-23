@@ -93,7 +93,7 @@
                             .navbar{flex-direction:column;}
                             .navbar a{border: 1px solid #f9cd77;}
                            .main {
-                            grid-template-areas: "one" "two" "three";
+                            grid-template-areas: "one one" "two two" "three three";
                              grid-template-columns: 1fr 1fr;}}
 
                              .myform{grid-template-areas: "labels inputs";}
